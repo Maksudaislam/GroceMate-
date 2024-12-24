@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name" translatable="false">GroceMate.</string>
+    <string name="app_logo" translatable="false">GroceMate</string>
+    <string name="item_image" translatable="false">Items\n</string>
+    <string name="Add" translatable="false">Add\n\n</string>
+    <string name="del" translatable="false">Delete</string>
+</resources>

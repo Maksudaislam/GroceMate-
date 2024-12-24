@@ -1,0 +1,28 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <Button
+        android:id="@+id/customer_details_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Customer Details"
+        android:backgroundTint="@color/design_default_color_primary" />
+
+    <Button
+        android:id="@+id/employee_details_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Employee Details"
+        android:backgroundTint="@color/design_default_color_primary" />
+
+    <Button
+        android:id="@+id/product_details_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Product Details"
+        android:backgroundTint="@color/design_default_color_primary" />
+
+</LinearLayout>
